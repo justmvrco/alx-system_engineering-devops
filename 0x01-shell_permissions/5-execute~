@@ -1,0 +1,3 @@
+ #!/bin/bash
+
+sudo chmod u=rwe,g+rw,o-rwx hello
