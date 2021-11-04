@@ -1,0 +1,4 @@
+cript listens to port 98 on localhost
+
+nc -l 98
+
